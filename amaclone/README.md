@@ -1,0 +1,2 @@
+# amaclone
+ clone of Amazon
